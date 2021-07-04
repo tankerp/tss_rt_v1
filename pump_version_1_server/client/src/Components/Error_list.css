@@ -1,0 +1,12 @@
+.all_err {
+  width: 1560px;
+  height: 100%;
+  display: flex;
+  z-index: 2;
+  background-color: #eaecee;
+}
+
+.error_components {
+  margin-left: 40px;
+  margin-right: 200px;
+}
