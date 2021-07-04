@@ -1,0 +1,27 @@
+.header_items {
+  display: flex;
+  width: 100%;
+  height: 80px;
+  margin-top: 0px;
+  flex: 1;
+  align-items: center;
+  background-color: #0b0811;
+}
+/* #b2b2b2;   */
+.logo-det {
+  margin-left: 20px;
+}
+.datetime {
+  margin-left: 540px;
+  color: white;
+  font-weight: 600;
+}
+
+.logo-dev {
+  margin-left: 540px;
+}
+
+.User-info {
+  margin-left: 40px;
+  color: white;
+}

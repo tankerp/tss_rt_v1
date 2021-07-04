@@ -1,0 +1,61 @@
+.sum_table {
+  flex: 0.7;
+
+  flex-direction: column;
+  margin-right: 48px;
+}
+.sumtable_container {
+  flex: 1;
+  background-color: black;
+  font-size: 12px;
+}
+
+.sum_table_drop_down {
+  height: 50px;
+  display: flex;
+  padding: 4px;
+}
+
+.stateinfo {
+  padding-right: 10px;
+  padding-left: 10px;
+  margin-right: 20px;
+}
+
+.devinfo {
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+.paginationButtons {
+  width: 80%;
+  height: 40px;
+  list-style: none;
+  display: flex;
+  justify-content: center;
+}
+
+.paginationButtons a {
+  padding: 10px;
+  margin: 8px;
+  border-radius: 5px;
+  border: 1px solid #2b2eff;
+  cursor: pointer;
+}
+
+.paginationButtons a:hover {
+  color: white;
+  background-color: #2b2eff;
+}
+
+.paginationActive a {
+  color: white;
+  background-color: #2b2eff;
+}
+.tablecolor {
+  background-color: #aad3df;
+  align-items: center;
+  vertical-align: middle;
+  text-align: center;
+  justify-content: center;
+}

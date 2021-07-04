@@ -1,0 +1,35 @@
+.page-width {
+  display: flex;
+  width: 100%;
+  background-color: #eaecee; /* #fafafa;*/
+}
+
+.page-width_two {
+  display: flex;
+  width: 100%;
+}
+
+.page-width_thr {
+  display: flex;
+  width: 100%;
+}
+
+.dropdown {
+  margin-left: 20px;
+  height: 50px;
+}
+
+.charts {
+  background-color: #fafafa;
+  display: flex;
+}
+
+.chart1 {
+  width: 40%;
+  background-color: white;
+}
+
+.chart2 {
+  width: 60%;
+  background-color: white;
+}

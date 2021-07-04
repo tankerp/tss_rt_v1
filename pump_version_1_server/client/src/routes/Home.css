@@ -1,0 +1,42 @@
+.home_body {
+  margin: 0;
+  display: grid;
+  place-items: center;
+  z-index: -1;
+  height: 500px;
+}
+
+.home_container {
+  width: 1400px;
+  height: 100%;
+  display: flex;
+  z-index: 50;
+}
+
+.navbar_header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 100px;
+}
+
+/* Taken from rooftop design*/
+.Home-Top {
+  display: flex;
+  background-color: #eaecee;
+  height: 700px;
+}
+/* #fafafa*/
+.top-two {
+  display: flex;
+}
+.Cards-Table {
+  width: 60%;
+  margin-top: 20px;
+  margin-left: 40px;
+}
+
+.Home-Map2 {
+  width: 50%;
+  margin-top: 20px;
+}

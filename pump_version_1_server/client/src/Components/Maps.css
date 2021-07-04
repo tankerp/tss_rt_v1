@@ -1,0 +1,13 @@
+.maps_border {
+  flex: 0.3;
+}
+.maps_container {
+  margin-top: 50px;
+  width: 800px;
+  margin-left: 80px;
+  height: 450px;
+}
+.leaflet-container {
+  width: 100%;
+  height: 550px;
+}
